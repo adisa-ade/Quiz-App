@@ -1,6 +1,7 @@
 import {createRouter, createWebHistory} from "vue-router"
 import QuizesView from "../views/QuizesView.vue"
 import QuizView from "../views/QuizView.vue"
+import ErrorPage from "../views/ErrorView.vue"
 
 
 const router = createRouter ({
@@ -15,6 +16,11 @@ const router = createRouter ({
         path:"/quiz/:id",
         name: "quiz",
         component:QuizView
+    },
+    {
+        path:"/:catchall(.*)*",
+        name:"Not found"
+        component: ErrorPage
     }
 ]        
 })
