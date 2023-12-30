@@ -19,7 +19,7 @@ const router = createRouter ({
     },
     {
         path:"/:catchall(.*)*",
-        name:"Not found"
+        name:"Not found",
         component: ErrorPage
     }
 ]        
