@@ -1,6 +1,314 @@
 [
     {
         "id": 1,
+        "img": "https://th.bing.com/th/id/R.edeff446cc18034b0deca644a4e2eb99?rik=cJ10dQqSLtRvSg&pid=ImgRaw&r=0",
+        "name": "English",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Choose the word that has the same rhyme scheme. battle",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "raffle",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "latter",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "bitter",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "kettle",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "In this question, select the option that best explains the information conveyed in the sentence. If he were here, it could be more fun.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "He did not show up and so the occasion lacked much fun",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "He was expected but did not show up to liven up the occasion",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "There was no fun because he was not present",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "He was being expected to supply more fun",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Choose the appropriate stress pattern from the options.The stressed words are in capital letter(s) Fluency",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "flu-EN-cy",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "flu-en-CY",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "flu-en-cy",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "FLU-en-cy",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": " Choose the word that is opposite in meaning to the capitalized word(s) Victor played the role of a HAUGTHY prince.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "a haunted",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "a modest",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": " a disturbed",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "an angry",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Choose the option that is nearest in meaning to the capitalized word I was SKEPTICAL about the story she told me.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "doubtful",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "convinced",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "ignorant",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "confused",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Pick out the option with a different rhyme",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Roar",
+                        "isCorrect": false                        
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Four",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Growl",
+                        "isCorrect": true                        
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Bore",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Choose the word that does not have the same vowel sound as the others.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Shun",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "son",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "sun",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "short",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Identify the option with a different stress pattern",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "reservoir",
+                        "isCorrect": true                      
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "contribute",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "importance",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "deposit",
+                        "isCorrect": false
+                    }
+                ]
+            },
+
+            {
+                "id": 9,
+                "text": "In this question, identify the word that has the stress on the first syllable.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "confirm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "intact",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "resist",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "salon",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Fill each gap with the most appropriate option from the list provided. We had to ..... the group headed by Taiwo.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "sell out",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "sell off",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "sell up",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "selled",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
         "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
         "name": "Math",
         "questions": [
@@ -93,11 +401,222 @@
                         "isCorrect": false
                     }
                 ]
+            },
+            {
+                "id": 4,
+                "text": "The product of 121 x 0 x 200 x 25 is",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1500",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "0",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "4000",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "None of the above",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "If a fair coin is tossed twice, what is the probability of obtaining at least one head?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "0.25",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "0.75",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "0.5",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "0.33",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "8cm",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "5.6cm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "7cm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "6.5cm",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "The 10th term of an AP is 32. If the first term is 3/2, what is the 4th term?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "35/3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "64",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "16",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "35/2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "In how many ways can the letter of ZOOLOGY be arranged?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "720",
+                        "isCorrect": false                        
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "360",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "840",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "120",
+                        "isCorrect": false
+                    }
+                ]
+            },
+
+            {
+                "id": 9,
+                "text": "Calculate the median of 14, 17, 10, 13, 18 and 10.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "12.5",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "13.5",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "13.2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "14.5",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "If 8, p, q and 26 is an A.P. Find the values of p and q",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "p=14 and q=14",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "p=20 and q=14",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "p=20 and q=20",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "p=14 and q=20",
+                        "isCorrect": true
+                    }
+                ]
             }
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
         "name": "Biology",
         "questions": [
@@ -190,11 +709,221 @@
                         "isCorrect": false
                     }
                 ]
+            },
+            {
+                "id": 4,
+                "text": "The membrane around the vacuole is known as",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Elaioplast",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Amyloplast",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tonoplast",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cytoplast",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Which of the following is evidence of evolution",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "All of the above",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Similarities in embryonic development",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Fossils of extinct organisms",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Homologous structures in different species",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Which of the following is an example of physiological variation in organisms?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Variation in blood pressure among individuals",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Variation in beak shape among finches",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Differences in fur color in rabbits",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Variation in leaf shape in plants",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Which of the following is an example of an adaptation for survival in social insects?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Migration to warmer climates",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Production of venom for defense",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Formation of complex caste systems",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Hibernation during winter months",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Which of the following is NOT a part of the alimentary canal?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Oesophagus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Large intestine",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Liver",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Small intestine",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Which of the following is a characteristic feature of Kingdom Plantae?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Presence of chloroplasts",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ability to perform photosynthesis",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Lack of cell walls",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Heterotrophic mode of nutrition",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "A biome characterized by hot summer, warm winter and treeless vegetation is",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Steppe grasslands",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Temperate deserts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Savannah grassland",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Tropical deserts",
+                        "isCorrect": false
+                    }
+                ]
             }
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
         "name": "Chemistry",
         "questions": [
@@ -284,6 +1013,830 @@
                         "id": 4,
                         "label": "D",
                         "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Argon",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Krypton",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Radon",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Neon",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What is the sum of the oxidation numbers in a neutral compound?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "+2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "-1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "0",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "+1",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "According to the kinetic theory of gases, the pressure exerted by a gas is due to",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "The vibrations of gas particles.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The weight of the gas particles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "The attractive forces between gas particles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "The collisions of gas particles with the container walls",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "What is eutrophication?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "The release of harmful chemicals into water bodies",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The excessive growth of algae due to nutrient enrichment",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "The presence of heavy metals in water",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "formation of oil slicks on water surfaces",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Who proposed the planetary model of the atom with electrons orbiting the nucleus?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Erwin Schrödinger",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ernest Rutherford",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Niels Bohr",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " J.J. Thomson",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What is the chemical structure of soap and detergent molecules?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hydrophilic head and hydrophobic tail",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Hydrophilic head and hydrophilic tail",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": " Hydrophobic head and hydrophobic tail",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " Hydrophilic tail and hydrophobic head",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Which of the following methods can be used to remove temporary hardness from water?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Boiling",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Filtration",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Distillation",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chlorination",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://th.bing.com/th/id/OIP.Hlsre07RPyVLt_6J21VMjQHaEZ?rs=1&pid=ImgDetMain",
+        "name": "Physics",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the composition of table salt",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Argon",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Krypton",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Radon",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Neon",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What is the sum of the oxidation numbers in a neutral compound?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "+2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "-1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "0",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "+1",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "According to the kinetic theory of gases, the pressure exerted by a gas is due to",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "The vibrations of gas particles.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The weight of the gas particles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "The attractive forces between gas particles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "The collisions of gas particles with the container walls",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "What is eutrophication?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "The release of harmful chemicals into water bodies",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The excessive growth of algae due to nutrient enrichment",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "The presence of heavy metals in water",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "formation of oil slicks on water surfaces",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Who proposed the planetary model of the atom with electrons orbiting the nucleus?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Erwin Schrödinger",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ernest Rutherford",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Niels Bohr",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " J.J. Thomson",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What is the chemical structure of soap and detergent molecules?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hydrophilic head and hydrophobic tail",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Hydrophilic head and hydrophilic tail",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": " Hydrophobic head and hydrophobic tail",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " Hydrophilic tail and hydrophobic head",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Which of the following methods can be used to remove temporary hardness from water?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Boiling",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Filtration",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Distillation",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chlorination",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://th.bing.com/th/id/R.4705d81765e97c3096fee806f5a4c71b?rik=HH3pFmD0835Euw&pid=ImgRaw&r=0",
+        "name": "Literature in English",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the composition of table salt",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Argon",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Krypton",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Radon",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Neon",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What is the sum of the oxidation numbers in a neutral compound?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "+2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "-1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "0",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "+1",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "According to the kinetic theory of gases, the pressure exerted by a gas is due to",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "The vibrations of gas particles.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The weight of the gas particles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "The attractive forces between gas particles",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "The collisions of gas particles with the container walls",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "What is eutrophication?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "The release of harmful chemicals into water bodies",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "The excessive growth of algae due to nutrient enrichment",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "The presence of heavy metals in water",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "formation of oil slicks on water surfaces",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Who proposed the planetary model of the atom with electrons orbiting the nucleus?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Erwin Schrödinger",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ernest Rutherford",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Niels Bohr",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " J.J. Thomson",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "What is the chemical structure of soap and detergent molecules?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Hydrophilic head and hydrophobic tail",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Hydrophilic head and hydrophilic tail",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": " Hydrophobic head and hydrophobic tail",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " Hydrophilic tail and hydrophobic head",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Which of the following methods can be used to remove temporary hardness from water?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Boiling",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Filtration",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Distillation",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chlorination",
                         "isCorrect": false
                     }
                 ]
